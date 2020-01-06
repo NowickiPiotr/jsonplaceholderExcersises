@@ -1,0 +1,1 @@
+Execute the runner.py to perform all test cases stored in tests folder 

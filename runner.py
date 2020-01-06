@@ -1,8 +1,8 @@
 import unittest
-import TestCreatingMethods
-import TestDeleteMethods
-import TestGetMethods
-import TestUpdateMethods
+from tests import TestCreatingMethods
+from tests import TestDeleteMethods
+from tests import TestGetMethods
+from tests import TestUpdateMethods
 
 loader = unittest.TestLoader()
 suite  = unittest.TestSuite()
